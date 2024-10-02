@@ -1,0 +1,14 @@
+azure-identity
+azure-keyvault-secrets
+feedparser
+requests
+python-dotenv
+pandas
+sqlalchemy
+loguru
+openai
+bs4
+html5lib
+lxml
+newspaper3k
+lxml-html-clean

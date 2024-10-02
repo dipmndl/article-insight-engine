@@ -1,0 +1,14 @@
+{
+    "websites": [
+      {
+        "name": "GMC",
+        "url": "https://www.gmc.com",
+        "rss_url": ""
+      },
+      {
+        "name": "Stellantis",
+        "url": "https://www.stellantis.com",
+        "rss_url": "https://www.stellantis.com/en/news/press-releases.rss.xml"
+      }
+    ]
+  }
